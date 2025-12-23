@@ -1,0 +1,17 @@
+{
+  "name": "1-uyga-vazifa",
+  "version": "1.0.0",
+  "description": "4-oy 1-uyga vazifa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uyga vazifa",
+    "javascript",
+    "4-oy"
+  ],
+  "author": "Firdavs Zoitov",
+  "license": "ISC",
+  "type": "commonjs"
+}
