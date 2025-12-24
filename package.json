@@ -1,10 +1,19 @@
 {
   "name": "1-uyga-vazifa",
   "version": "1.0.0",
+  "bugs": {
+    "url": "https://github.com/zoitovfirdavs3-eng/4-Month-1-Task/issues",
+    "email": "zoitovfirdavs3@gmail.com"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
   "description": "4-oy 1-uyga vazifa",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "node index.js"
   },
   "keywords": [
     "uyga vazifa",
